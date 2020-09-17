@@ -1,0 +1,8 @@
+*.zip
+*.csv
+*.sas7bdat
+*.sashdat
+SynpufPrep/*
+sasdata/*
+pullRawData/rawdata/*
+.DS_Store
